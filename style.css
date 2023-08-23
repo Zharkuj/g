@@ -1,0 +1,31 @@
+div{
+    background-color: #fff;
+    padding: 15px;
+    text-align: center;
+    border-radius: 15px;
+
+
+
+}
+
+div p{
+    position: relative;
+    top: 50px;
+
+    font-weight: 600px;
+}
+
+button {
+    position: relative;
+    height: 25px; 
+    width: 75px;
+    border: none;
+    border-radius: 15px;
+    bottom: 15px;
+}
+
+div img{
+    object-fit: cover;
+    width: 125px;
+    height:125px;
+}
